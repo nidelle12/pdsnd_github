@@ -11,5 +11,5 @@ I will explore data related to bike share systems for three major cities which a
 Required Softwares: Make sure that python is install in your machine. Python A text editor, like Visual Studio Code, Atom or Sublime and a terminal application.
 
 ### Credits
-I am so greatful for this opportunity so the credits goes to Udacity studyhub that helped me a lot to complete this project. 
+I am so greatful for this opportunity that udacity offers. 
 
